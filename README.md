@@ -1,2 +1,2 @@
 # helloworld
-Test repository setup
+Test repository setup, to get started before creating a repository for the Practical Computing in R class.
